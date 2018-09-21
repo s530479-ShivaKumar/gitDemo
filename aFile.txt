@@ -1,3 +1,4 @@
 In Master before branching
 
 In Master after branching
+In New branch
